@@ -1,0 +1,272 @@
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\WpfApplication4\WpfApplication4\obj\Debug\ResolveAssemblyReference.cache
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\WpfApplication4\WpfApplication4\obj\Debug\Simple Styles.baml
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\WpfApplication4\WpfApplication4\obj\Debug\App.baml
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\WpfApplication4\WpfApplication4\bin\Debug\Image1.png
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\WpfApplication4\WpfApplication4\bin\Debug\Image3.png
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\bin\Debug\Image1.png
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\bin\Debug\Image3.png
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\Simple Styles.baml
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\App.baml
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\Window1.baml
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\Window1.g.cs
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.baml
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.g.cs
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\menuItems.baml
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\menuItems.g.cs
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\RobSiry\Documents\Cpsc 481\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\bin\Debug\Image1.png
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\bin\Debug\Image3.png
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.dll
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.xml
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\obj\Debug\ResolveAssemblyReference.cache
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\obj\Debug\menuItems.baml
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\obj\Debug\Simple Styles.baml
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\obj\Debug\Window1.baml
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\obj\Debug\App.baml
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\obj\Debug\menuItems.g.cs
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.g.cs
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\obj\Debug\Window1.g.cs
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.baml
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+\\cs-fs01\Profiles\ug\cebner\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\bin\Debug\Image1.png
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\bin\Debug\Image3.png
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.dll
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.xml
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\ResolveAssemblyReference.cache
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\menuItems.baml
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.baml
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\Simple Styles.baml
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\Window1.baml
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\App.baml
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\menuItems.g.cs
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.g.cs
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\Window1.g.cs
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.baml
+\\cs-fs01\Profiles\ug\rsiry\Desktop\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.g.cs
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\bin\Debug\Image1.png
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\bin\Debug\Image3.png
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.dll
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.xml
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\ResolveAssemblyReference.cache
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.baml
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\menuItems.baml
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.baml
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\Simple Styles.baml
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\Window1.baml
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\App.baml
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.g.cs
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\menuItems.g.cs
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.g.cs
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\Window1.g.cs
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+\\cs-fs01\Profiles\ug\rsiry\Desktop\bakc\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\bin\Debug\Image1.png
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\bin\Debug\Image3.png
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.baml
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\menuItems.baml
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.baml
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\Simple Styles.baml
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\Window1.baml
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\App.baml
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.g.cs
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\menuItems.g.cs
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.g.cs
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\Window1.g.cs
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\RobSiry\Desktop\bck\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\bin\Debug\Image1.png
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\bin\Debug\Image3.png
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.baml
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\menuItems.baml
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.baml
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\Simple Styles.baml
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\Window1.baml
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\App.baml
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.g.cs
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\menuItems.g.cs
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.g.cs
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\Window1.g.cs
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\Igor\Desktop\481Project\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\bin\Debug\Image1.png
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\bin\Debug\Image3.png
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.dll
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.xml
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\ResolveAssemblyReference.cache
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.baml
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\menuItems.baml
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.baml
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\Simple Styles.baml
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\Window1.baml
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\App.baml
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.g.cs
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\menuItems.g.cs
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.g.cs
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\Window1.g.cs
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+\\cs-fs01\Profiles\ug\idjorgan\Desktop\481NEW\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\481NEW\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\481NEW\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\481NEW\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\481NEW\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.baml
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\menuItems.baml
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.baml
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\Simple Styles.baml
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\Window1.baml
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\App.baml
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.g.cs
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\menuItems.g.cs
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.g.cs
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\Window1.g.cs
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\481NEW\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Temp\Current\WpfApplication4\WpfApplication4\bin\Debug\Image1.png
+C:\Temp\Current\WpfApplication4\WpfApplication4\bin\Debug\Image3.png
+C:\Temp\Current\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Temp\Current\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Temp\Current\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Temp\Current\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.baml
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\menuItems.baml
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.baml
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\Simple Styles.baml
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\Window1.baml
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\App.baml
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.g.cs
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\menuItems.g.cs
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.g.cs
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\Window1.g.cs
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Temp\Current\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\481new2\WpfApplication4\WpfApplication4\bin\Debug\Image1.png
+C:\481new2\WpfApplication4\WpfApplication4\bin\Debug\Image3.png
+C:\481new2\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\481new2\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\481new2\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\481new2\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.baml
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\menuItems.baml
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.baml
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\Simple Styles.baml
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\Window1.baml
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\App.baml
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.g.cs
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\menuItems.g.cs
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.g.cs
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\Window1.g.cs
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\481new2\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.baml
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\menuItems.baml
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.baml
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\Simple Styles.baml
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\Window1.baml
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\App.baml
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\conformationWindow.g.cs
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\menuItems.g.cs
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\OrderWindow.g.cs
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\Window1.g.cs
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+D:\User Folders\Downloads\Final481\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources

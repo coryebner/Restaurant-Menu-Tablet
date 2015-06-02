@@ -1,0 +1,463 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+	x:Class="WpfApplication4.MainWindow"
+	x:Name="Window"
+	Title="MainWindow"
+	Width="1294" Height="954" Background="{x:Null}" WindowStyle="None" VerticalAlignment="Top" HorizontalAlignment="Left" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" AllowsTransparency="True" Visibility="Visible" Icon="bell.png">
+	<Window.Resources>
+		<Style x:Key="ButtonStyle1" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid HorizontalAlignment="Left" Height="80" VerticalAlignment="Top" Width="240" Margin="-1,0,0,0">
+							<Grid.ColumnDefinitions>
+								<ColumnDefinition Width="0.327*"/>
+								<ColumnDefinition Width="0.673*"/>
+							</Grid.ColumnDefinitions>
+							<Image Source="pack://siteoforigin:,,,/Image1.png" Stretch="Fill" HorizontalAlignment="Stretch" Height="80" VerticalAlignment="Top" Width="Auto" Margin="0,0,-49.5,0"/>
+							<ContentPresenter x:Name="burgerButton" HorizontalAlignment="Right" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" RenderTransformOrigin="2.283,-0.064" Margin="0,0,8,0" Content="Burger and Fries" Width="91.207" Grid.Column="1">
+								<ContentPresenter.BindingGroup>
+									<BindingGroup/>
+								</ContentPresenter.BindingGroup>
+							</ContentPresenter>
+							<Button Grid.ColumnSpan="2" Content="Button" Height="221" Margin="-9,0,21,-256" Style="{DynamicResource burgerButton2}" VerticalAlignment="Bottom"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="burgerButton2" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="Image2.png" Stretch="Fill" Margin="0,-8,0,8"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="BurgerButton" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid Margin="0,0,-114,0">
+							<Image Source="pack://siteoforigin:,,,/Image3.png" Stretch="Fill" Margin="0,0,102.311,0"/>
+							<ContentPresenter HorizontalAlignment="Right" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Margin="0,0,10.188,0" Content="Burger and Fires"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Storyboard Name="FoodPanel" x:Key="Storyboard1"/>
+		<Style x:Key="ButtonStyle2" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image RenderTransformOrigin="0.5,0.5" Source="Arrow button.png" Stretch="Fill">
+								<Image.RenderTransform>
+									<TransformGroup>
+										<ScaleTransform/>
+										<SkewTransform/>
+										<RotateTransform Angle="180"/>
+										<TranslateTransform/>
+									</TransformGroup>
+								</Image.RenderTransform>
+							</Image>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="OrderDetailsButton" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="orderdetails.png" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="Stretch" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Height="40.96" Margin="30.688,0,18.688,0" Content=""/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="FlagWaiterButton" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="bell.png" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="Stretch" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="Stretch" Margin="0,8,-70.906,8" Width="Auto" Content=""/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="leftmenubutton" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="leftbutton.png" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Content="" Height="52.995" Width="42.666"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="rightmenubutton" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="rightbutton.png" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="Stretch" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="Stretch" Content="" Height="Auto" Width="Auto" Margin="5.376,11.818,8,8"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="Truffle" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="truffles.png" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Content="" Height="192.96" RenderTransformOrigin="0.5,0.5" Width="349.5">
+								<ContentPresenter.RenderTransform>
+									<TransformGroup>
+										<ScaleTransform ScaleX="-1"/>
+										<SkewTransform/>
+										<RotateTransform/>
+										<TranslateTransform/>
+									</TransformGroup>
+								</ContentPresenter.RenderTransform>
+							</ContentPresenter>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="homescreen" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="homescreen.png" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Height="778.605" Width="1065.624" Content=""/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="CaesarSalad" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="CaesarSalad.png" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Height="190.98" Width="349.624" Content=""/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="ClamChowder" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="ClamChowder.png" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Height="191.48" Width="350.812" Content=""/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="HelpButton" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="help.png" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="Stretch" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Height="56.495" Width="Auto" Margin="-38.145,0,8,0" Content=""/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="Steak" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="entree.png" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Height="190.96" Width="350.624" Content=""/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="Cobbler" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="dessert.png" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Height="191.96" Width="351.624" Content=""/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="Dom" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="drinks.png" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Height="193.48" Width="349.624" Content=""/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="CabButton" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Viewbox Stretch="Fill">
+								<Grid Height="258" Width="893.5">
+									<Image Margin="405.5,0,0,0" Source="cab.png" Stretch="Fill"/>
+									<Label Content="Reserve a Cab" Margin="0,99,0,89.25" FontSize="48" FontWeight="Bold" HorizontalAlignment="Left" Width="326.5"/>
+								</Grid>
+							</Viewbox>
+							<ContentPresenter HorizontalAlignment="Stretch" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="Stretch" Margin="0" Width="Auto" Content=""/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="MiniLeft" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="minileft.png" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Height="25.127" Content=""/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="MiniRight" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="miniright.png" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Height="24.793" Content=""/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+	</Window.Resources>
+	<Window.Triggers>
+		<EventTrigger RoutedEvent="FrameworkElement.Loaded">
+			<BeginStoryboard Storyboard="{StaticResource Storyboard1}"/>
+		</EventTrigger>
+	</Window.Triggers>
+
+	<Grid x:Name="LayoutRoot" Margin="0">
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="1024"/>
+		</Grid.ColumnDefinitions>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="768"/>
+		</Grid.RowDefinitions>
+		<Grid Margin="94,74,-156,-116">
+        	<Grid.Background>
+        		<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+        			<GradientStop Color="White" Offset="0"/>
+        			<GradientStop Color="#FF6E6E6E" Offset="1"/>
+        		</LinearGradientBrush>
+        	</Grid.Background>
+        </Grid>
+		<Image Margin="8,-0.5,-266,-184.5" Source="ipad.png" Stretch="Fill"/>
+		<UniformGrid x:Name="Appetizers" Margin="145,267.9,-129,-50" Rows="3" Columns="3" Visibility="Hidden" >
+            <Button x:Name="Truffle" HorizontalAlignment="Left" Content="Cheese Truffles with Chives" Margin="0,0,-14,-9.633" Style="{DynamicResource Truffle}" Click="Button_Click"/>
+		</UniformGrid>
+        <UniformGrid x:Name="Salads" Margin="145,267.9,-129,-50" Rows="3" Columns="3" Visibility="Hidden">
+            <Button x:Name="Caesar_Salad" Content="Caesar Salad" Margin="0,0,-14,-9.633" Style="{DynamicResource CaesarSalad}" Click="Button_Click" HorizontalAlignment="Left"/>
+        </UniformGrid>
+        <UniformGrid x:Name="Soups" Margin="145,267.9,-129,-50" Rows="3" Columns="3" Visibility="Hidden">
+            <Button x:Name="ClamChowder" Content="Clam Chowder" Margin="0,0,-14,-9.633" Style="{DynamicResource ClamChowder}" Click="Button_Click" HorizontalAlignment="Left"/>
+        </UniformGrid>
+        <UniformGrid x:Name="Entrees" Margin="145,268.9,-129,-51" Rows="3" Columns="3" Visibility="Hidden">
+            <Button x:Name="Steak" Content="Grilled Flap Steak/Pom and Feta" Margin="0,0,-14,-9.633" Style="{DynamicResource Steak}" Click="Button_Click"/>
+        </UniformGrid>
+        <UniformGrid x:Name="Desserts" Margin="145,267.9,-129,-50" Rows="3" Columns="3" Visibility="Hidden">
+            <Button x:Name="Cobbler" Content="Blueberry Cobbler/Lav Whip Cream" Margin="0,0,-14,-9.633" Style="{DynamicResource Cobbler}" Click="Button_Click"/>
+        </UniformGrid>
+        <UniformGrid x:Name="Drinks" Margin="145,267.9,-129,-50" Rows="3" Columns="3" Visibility="Hidden">
+            <Button x:Name="Dom" Content="Dom Perignon" Margin="0,0,-14,-9.633" Style="{DynamicResource Dom}" Click="Button_Click"/>
+        </UniformGrid>
+        <Button x:Name="CabButton" Content="Button" Height="258" Margin="243.5,0,-113,123" Style="{DynamicResource CabButton}" VerticalAlignment="Bottom" Visibility="Hidden" Click="CabButton_Click"/>
+        <Button x:Name ="LeftMenuButton" Content="Appetizers" Margin="197,160.954,0,0" Background="{x:Null}" BorderBrush="{x:Null}" FontSize="25" Height="75.992" VerticalAlignment="Top" HorizontalAlignment="Left" Width="279.09" Click="LeftMenuButton_Click" />
+        <Button x:Name="RightButton" Content="Soups" Margin="0,160.954,-62.509,0" Background="{x:Null}" BorderBrush="{x:Null}" FontSize="25" HorizontalAlignment="Right" Width="278.922" Height="75.992" VerticalAlignment="Top" Click="RightButton_Click" />
+        <Button x:Name="orderInfoButton" Content="Button" Margin="477.587,-34,216.413,0" Style="{DynamicResource OrderDetailsButton}" Click="orderInfoButton_Click" Height="281" VerticalAlignment="Top"/>
+        <Button x:Name="MiddleButton" Content="Salads" Margin="494.581,160.954,0,0" Background="{x:Null}" BorderBrush="{x:Null}" FontSize="25" Height="75.992" VerticalAlignment="Top" Click="MiddleButton_Click" HorizontalAlignment="Left" Width="295" />
+        <Button x:Name ="LeftScroll" Content="Button" HorizontalAlignment="Left" Height="72" Margin="122,160.954,0,0" Style="{DynamicResource leftmenubutton}" VerticalAlignment="Top" Width="60" Click="Button_Click_3" Cursor="ScrollW" />
+        <Button x:Name ="RightScroll" Content="Button" HorizontalAlignment="Right" Height="72" Margin="0,160.954,-134.509,0" Style="{DynamicResource rightmenubutton}" VerticalAlignment="Top" Width="60" Click="Button_Click_2" Cursor="ScrollE" />
+        <Button x:Name="MiniLeft" Content="Button" HorizontalAlignment="Right" Height="25" Margin="0,0,428.913,-33" Style="{DynamicResource MiniLeft}" VerticalAlignment="Bottom" Width="25" Click="MiniLeft_Click" Visibility="Hidden"/>
+        <Button x:Name="MiniRight" Content="Button" HorizontalAlignment="Right" Height="25" Margin="0,0,292.51,-33" Style="{DynamicResource MiniRight}" VerticalAlignment="Bottom" Width="25" Click="MiniRight_Click" Visibility="Hidden"/>
+        <Label Name="userInfo" Content="Use the Menu above to chose a category.&#xd;&#xa;Use the buttons that are beside the menu to scroll through all the categories.&#xd;&#xa;Click the category you desire, and you will be presented with a list of items for that category.&#xd;&#xa;&#xd;&#xa;If you wish to browse the entire menu, use the scroll buttons below. &#xd;&#xa;It will start from Appetizers and end at Services.&#xd;&#xa;&#xd;&#xa;If you forget something or get stuck, tap the &quot;Help&quot; button at the bottom right for instructions&#xd;&#xa;&#xd;&#xa;If you need assistance, tap the &quot;Bell&quot; at the bottom left of the screen to call your waiter over." Margin="207.831,331,-58.34,13" FontSize="18.667" Visibility="Visible"/>
+        <Button Name="HomeScreen" Margin="111.333,90,-144.333,-88" Style="{DynamicResource homescreen}" Click="HomeScreen_Click" />
+        <Button x:Name="LeftButton" Content="Button" HorizontalAlignment="Left" Height="76" Margin="145,0,0,-90" Style="{DynamicResource FlagWaiterButton}" VerticalAlignment="Bottom" Width="76" Click="Button_Click_1" />
+        <Label Content="Flag a waiter" HorizontalAlignment="Left" Margin="212,0,0,-65.96" VerticalAlignment="Bottom" FontWeight="Bold"/>
+        <Button x:Name="HomeButton" Content="" HorizontalAlignment="Right" Height="57.25" Margin="0,0,-233.75,264.75" VerticalAlignment="Bottom" Width="58.426" Background="{x:Null}" Click="HomeButton_Click" BorderThickness="1"/>
+        <Button Content="Help" HorizontalAlignment="Right" Height="76" Margin="0,0,-113,-91" Style="{DynamicResource HelpButton}" VerticalAlignment="Bottom" Width="76" Click="HelpButton_Click" />
+        <Label Content="Help" HorizontalAlignment="Right" Height="30.667" Margin="0,0,-46.34,-70.564" VerticalAlignment="Bottom" Width="39.167" FontWeight="Bold" FontSize="13.333"/>
+        <!--<Image HorizontalAlignment="Left" Height="40.118" Source="bell.png" Stretch="Fill" VerticalAlignment="Bottom" Width="62" Margin="8,0,0,8"/>-->
+	</Grid>
+</Window>

@@ -1,0 +1,41 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="WpfApplication4.conformationWindow"
+	x:Name="Window"
+	Title="conformationWindow"
+	Width="590" Height="250" WindowStartupLocation="Manual" WindowStyle="None" AllowsTransparency="True"
+Background="Transparent">
+
+	<Grid x:Name="LayoutRoot" Margin="0,0,0,8">
+		<Rectangle Fill="#FFF4F4F5" RadiusY="29.5" RadiusX="43.5" Stroke="Black" Margin="-0.995,0,2.927,1" RenderTransformOrigin="0.5,0.5">
+			<Rectangle.RenderTransform>
+				<TransformGroup>
+					<ScaleTransform/>
+					<SkewTransform AngleX="0.52"/>
+					<RotateTransform/>
+					<TranslateTransform X="2.991"/>
+				</TransformGroup>
+			</Rectangle.RenderTransform>
+		</Rectangle>
+		<StackPanel Margin="24.5,22.5,20.5,12">
+			<Label x:Name="messageLabel" Content="Text goes here" HorizontalAlignment="Left" FontSize="22.667" Width="571" Height="70"/>
+            <TextBox Name="NameTextBox" HorizontalAlignment="Left" Visibility="Hidden" Text="Your Name" Width="139" />
+            <TextBox Name="NumberOfPeopleTextBox" HorizontalAlignment="Left" Visibility="Hidden" Text="Number Of People" Width="139" />
+            <ComboBox Name="NumberOfPeopleComboBox" Text="Number of People" Visibility="Hidden" Width="150" HorizontalAlignment="Left" Margin="0,-20,0,0">
+                <ComboBoxItem Name="cbi2">1-4 people</ComboBoxItem>
+                <ComboBoxItem Name="cbi3">5-8 people</ComboBoxItem>
+                <ComboBoxItem Name="cbi4">9-12 people</ComboBoxItem>
+                <ComboBoxItem Name="cbi5">13-16 people</ComboBoxItem>
+                <ComboBoxItem Name="cbi6">17-20 people</ComboBoxItem>
+                <ComboBoxItem Name="cbi7">21-24 people</ComboBoxItem>
+                <ComboBoxItem Name="cbi8">25-28 people</ComboBoxItem>
+                <ComboBoxItem Name="cbi9">29-32 people</ComboBoxItem>
+                <ComboBoxItem Name="cbi10">33-36 people</ComboBoxItem>
+            </ComboBox>
+            <Button x:Name="okayButton" Content="Return to Menu" Margin="28.5,10,42,0" Height="51.96" FontSize="18.667" Click="okayButton_Click" />
+            
+        </StackPanel>
+        
+    </Grid>
+</Window>

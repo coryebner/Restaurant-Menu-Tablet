@@ -1,0 +1,32 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="WpfApplication4.OrderWindow"
+	x:Name="Window"
+	Title="OrderWindow"
+	Width="572.5" Height="732" WindowStyle="None" AllowsTransparency="True" Background="Transparent">
+
+	<Grid x:Name="LayoutRoot" Margin="0,0,0,73">
+		<Rectangle Fill="#FFF4F4F5" RadiusY="29.5" RadiusX="43.5" Stroke="Black"/>
+		<StackPanel Margin="18,8,18.5,39.3">
+			<Label Content="Order Breakdown" FontSize="32" FontWeight="Bold" HorizontalAlignment="Center" Height="48.563"/>
+			<Label Content="Your Menu (Menu #1)" FontSize="24" FontWeight="Bold"/>
+            <ScrollViewer VerticalScrollBarVisibility="Visible" CanContentScroll="True">
+			<StackPanel x:Name="usersOrderStackPanel" Height="246" />
+            </ScrollViewer>
+            <Label Content="Menu #2" FontSize="24" FontWeight="Bold" Height="46"/>
+			<Label Content="- Caesar Salad&#x9;$13.50&#xd;&#xa;- Bottle Little Penguin Merlot $60.00&#xd;&#xa;" FontSize="18.667" Height="99"/>
+			<Label Name="TotalBillLabel" Content="Total Bill : $85.05" FontSize="18.667" FontWeight="Bold" Height="38.83" FontStyle="Italic"/>
+			<Button Name="SendToKitchenButton" Content="Send order to Kitchen" Height="36.96" Margin="81,0,76,0" FontSize="18.667" Click="SendToKitchenButton_Click">
+				<Button.Background>
+					<LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+						<GradientStop Color="#FFF3F3F3" Offset="0"/>
+						<GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+						<GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+						<GradientStop Color="#FF666272" Offset="1"/>
+					</LinearGradientBrush>
+				</Button.Background>
+			</Button>
+		</StackPanel>
+	</Grid>
+</Window>
